@@ -1,2 +1,2 @@
 # DataCleaning
-Data was taken online from Nashvile Housing, it was imported from Micro Excel to Microsoft Sql. Date was formatted, Address was property seperated and broken down into columns, and all the duplicate was deleted 
+This repository contains detailed records of real estate sales in Goodlettsville, TN. The dataset includes essential information about property transactions, including sale prices, land use, property attributes, and owner details. This data can be utilized for market analysis, property valuation studies, and urban planning projects. it was imported from Micro Excel to Microsoft Sql and all the duplicate was deleted 
